@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@SagarBarapatre-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rohitmeshram76)](https://twitter.com/Sagar61947883) [![Linkedin Badge](https://img.shields.io/badge/-SagarBarapatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarbarapatre/)](https://www.linkedin.com/in/sagarbarapatre/)
+[![Twitter Badge](https://img.shields.io/badge/-@SagarBarapatre-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rohitmeshram76)](https://twitter.com/Sagar61947883) [![Linkedin Badge](https://img.shields.io/badge/-SagarBarapatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarbarapatre02/)](https://www.linkedin.com/in/sagarbarapatre02/)
 [![Gmail Badge](https://img.shields.io/badge/-sagarbarapatre2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarbarapatre@gmail.com)](mailto:sagarbarapatre2019@gmail.com)
 [![Instagram](https://img.shields.io/badge/-sagar._.sb-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sagar._.sb/)
 
