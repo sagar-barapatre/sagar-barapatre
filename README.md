@@ -17,7 +17,7 @@ Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
 - Backend development using **Nodejs**
 - Database using MongoDB and mongoose
-- Solving Data structure and algorithm questions in **C++(Proficient) and Java(Beginner) **
+- Solving Data structure and algorithm questions in **C++ and Java **
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://rohitmhere.me/)
