@@ -14,10 +14,10 @@ I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech
 * Github developer community
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, React**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
 - Backend development using **Nodejs**
 - Database using MongoDB and mongoose
-- Solving Data structure and algorithm questions in **Java and C++**
+- Solving Data structure and algorithm questions in **C++(Proficient) and Java(Beginner) **
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://rohitmhere.me/)
