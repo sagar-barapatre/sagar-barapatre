@@ -2,9 +2,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-barapatre" alt="sagar-barapatre" /> </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@SagarBarapatre-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rohitmeshram76)](https://twitter.com/Sagar61947883) [![Linkedin Badge](https://img.shields.io/badge/-SagarBarapatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarbarapatre02/)](https://www.linkedin.com/in/sagarbarapatre02/)
-[![Gmail Badge](https://img.shields.io/badge/-sagarbarapatre2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagarbarapatre@gmail.com)](mailto:sagarbarapatre2019@gmail.com)
-[![Instagram](https://img.shields.io/badge/-sagar._.sb-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sagar._.sb/)
+<p align="center">
+</a>
+<a href="https://twitter.com/harsh_casper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_casper" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://kaggle.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://instagram.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://medium.com/@harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshcasper" height="30" width="30" /></a>
+</p>
+
 
 
 I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech from International Institute of Information Technology, Bhubaneswar 🏫.I love to explore and learn about new things.
