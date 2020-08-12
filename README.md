@@ -3,20 +3,20 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pingunnatimishra">
-    <img align="left" alt="Unnati Mishra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/sagarbarapatre02/">
+    <img align="center" alt="Unnati Mishra | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/ping_unnati?lang=en">
-    <img align="left" alt="Unnati Mishra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="center" alt="Unnati Mishra | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/thecssgirl/">
-    <img align="left" alt="Unnati Mishra | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/kanda.poha/">
+    <img align="center" alt="Unnati Mishra | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:unnaticse2019@gmail.com">
-    <img align="left" alt="Unnati Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:sagarbarapatre2019@gmail.com">
+    <img align="center" alt="Unnati Mishra | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
-
+<br>
 
 
 I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech from International Institute of Information Technology, Bhubaneswar 🏫.I love to explore and learn about new things.
