@@ -3,12 +3,18 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
-</a>
-<a href="https://twitter.com/harsh_casper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_casper" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://kaggle.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://instagram.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://medium.com/@harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshcasper" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pingunnatimishra">
+    <img align="left" alt="Unnati Mishra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/ping_unnati?lang=en">
+    <img align="left" alt="Unnati Mishra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/thecssgirl/">
+    <img align="left" alt="Unnati Mishra | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:unnaticse2019@gmail.com">
+    <img align="left" alt="Unnati Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 </p>
 
 
