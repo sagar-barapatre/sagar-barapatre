@@ -24,12 +24,7 @@ I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech
 * The Programming Society of IIIT-Bh
 * The Automation and Robotics Society of IIIT_Bh
 * Github developer community
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
-- Backend development using **Nodejs**
-- Database using MongoDB and mongoose
-- Solving Data structure and algorithm questions in **C++ and Java **
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://rohitmhere.me/)
