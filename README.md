@@ -15,9 +15,7 @@
   <a href="mailto:sagarbarapatre2019@gmail.com">
     <img align="center" alt="Sagar Barapatre | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
     </a>
-    <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
-    <img align="center" alt="Sagar Barapatre | Stack Overflow" width="50px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
-  </a>
+    
 </p>
 <br>
 
