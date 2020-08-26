@@ -28,7 +28,7 @@ I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://www.linkedin.com/in/sagarbarapatre02/)
+- 🎯 Portfolio site: [Portfolio](https://sagar-barapatre.github.io/Portfolio-Website/)
 - ⚡ Fun fact: I spend almost 4 hours listening songs everyday.
  
 <a href="https://github.com/sagar-barapatre">
