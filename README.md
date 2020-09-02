@@ -23,7 +23,7 @@
 I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech from International Institute of Information Technology, Bhubaneswar 🏫.I love to explore and learn about new things.
 ## 👯 Communities
 * The Programming Society of IIIT-Bh
-* The Automation and Robotics Society of IIIT_Bh
+* ACM Student Chapter IIIT-Bh
 * Github developer community
 
 ## Hello World!! 🤔
