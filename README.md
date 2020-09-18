@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
-    <img align="center" alt="Sagar Barapatre | Stack Overflow" width="35px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
+    <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
   </a>
     
 </p>
