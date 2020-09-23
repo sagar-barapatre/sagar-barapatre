@@ -19,6 +19,10 @@
   <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
     <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
   </a>
+  <a href="https://dev.to/sagarbarapatre">
+    <img align="center" alt="Sagar Barapatre | Dev.to" width="35px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+  </a>
+ 
     
 </p>
 <br>
