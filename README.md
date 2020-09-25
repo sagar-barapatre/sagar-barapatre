@@ -35,7 +35,7 @@ I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://sagar-barapatre.github.io/Portfolio-Website/)
-- ⚡ Fun fact: I spend almost 4 hours listening songs everyday.
+- ⚡ Fun fact: I am a big fan of Indian Premiere League (IPL).
  
 <a href="https://github.com/sagar-barapatre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
