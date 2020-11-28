@@ -19,12 +19,7 @@
   <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
     <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
   </a>
-  
- 
-    
 </p>
-<br>
-
 
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
 
