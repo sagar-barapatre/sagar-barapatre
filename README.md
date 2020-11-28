@@ -26,7 +26,7 @@
 <br>
 
 
-I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech from International Institute of Information Technology, Bhubaneswar 🏫.I love to explore and learn about new things.
+I am Sagar Barapatre 😃. I am from Nagpur, India and currently pursuing my B.Tech from International Institute of Information Technology, Bhubaneswar 🏫.I love to explore and learn about new things.
 ## 👯 Communities
 * The Programming Society of IIIT-Bh
 * GeeksforGeeks Student Chapter IIIT-Bh
@@ -35,8 +35,7 @@ I am Sagar Barapatre 😃. I am from Nagpur, India and currently doing my B.Tech
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://sagar-barapatre.github.io/Portfolio-Website/)
-- ⚡ Fun fact: I am a big fan of Indian Premiere League (IPL).
+- 🎯 Portfolio site: [Portfolio](https://sagarbarapatre.netlify.app/)
  
 <a href="https://github.com/sagar-barapatre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
