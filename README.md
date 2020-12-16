@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/sagarbarapatre02/">
     <img align="center" alt="Sagar Barapatre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/sagar_sb_">
-    <img align="center" alt="Sagar Barapatre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
   <a href="https://www.instagram.com/kanda.poha/">
     <img align="center" alt="Sagar Barapatre | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
