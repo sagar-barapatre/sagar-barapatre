@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Web Devlepment
-- 💬 Ask me about DSA
+- 💬 Ask me about DSA and Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sleeping too much
