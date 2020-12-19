@@ -24,9 +24,16 @@
 * ACM Student Chapter IIIT-Bh
 * Github developer community
 
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Click Here](https://sagarbarapatre.netlify.app/)
+## Here are some facts about me :
+
+- 🔭 I’m currently a Student
+- 🌱 I’m currently learning DSA & Web Technologies
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Web Devlepment
+- 💬 Ask me about DSA
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love sleeping too much
  
 <a href="https://github.com/sagar-barapatre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
@@ -50,3 +57,10 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+
+
+### :handshake: Always happy to help!
+
+
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/Amisha-here)! :v: 
