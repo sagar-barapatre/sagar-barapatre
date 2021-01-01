@@ -32,8 +32,8 @@
 - 🤔 I’m looking for help with Web Devlepment
 - 💬 Ask me about DSA and Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sleeping too much
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I need a cup of chai atleast 5 times a day.
  
 <a href="https://github.com/sagar-barapatre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
