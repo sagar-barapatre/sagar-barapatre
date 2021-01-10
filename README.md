@@ -33,7 +33,7 @@
 - 💬 Ask me about DSA and Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact about me - I love watching web shows!!
+- ⚡ Fun fact about me - I love drinking chai (tea)
  
 <a href="https://github.com/sagar-barapatre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
