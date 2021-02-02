@@ -36,10 +36,10 @@
 - ⚡ Fun fact about me - I need atleast 4-5 cups of chai(tea) a day !!
  
 <a href="https://github.com/sagar-barapatre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=onedark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/sagar-barapatre">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-barapatre&show_icons=true&theme=dracula&line_height=27" alt="Sagar's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-barapatre&theme=onedark&show_icons=true" />
 </a>
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sagar-barapatre&theme=onedark)](https://github.com/sagar-barapatre/github-readme-streak-stats)
