@@ -7,7 +7,7 @@
     <img align="center" alt="Sagar Barapatre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   
-  <a href="mailto:sagar.applications@gmail.com">
+  <a href="mailto:sagarbarapatre.me@gmail.com">
     <img align="center" alt="Sagar Barapatre | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
