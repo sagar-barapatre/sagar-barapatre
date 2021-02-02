@@ -18,6 +18,8 @@
 
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagar-barapatre&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-barapatre" /> </p>
+
 ## 👯 Communities
 * The Programming Society of IIIT-Bh
 * GeeksforGeeks Student Chapter IIIT-Bh
