@@ -18,11 +18,6 @@
 
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
 
-## 👯 Communities
-* The Programming Society of IIIT-Bh
-* GeeksforGeeks Student Chapter IIIT-Bh
-* ACM Student Chapter IIIT-Bh
-* Github developer community
 
 ## Here are some facts about me :
 
