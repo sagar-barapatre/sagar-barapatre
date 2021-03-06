@@ -24,8 +24,8 @@
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Web Devlepment
-- 💬 Ask me about DSA and Web Development
+- 🤔 Ask me about DSA and Web Development
+- 💬 Hobbies : Cooking (Thanks to lockdown)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
 - 😄 Pronouns: He/ Him/ Bro
 - ⚡ Fun fact about me - I need atleast 4-5 cups of chai(tea) a day !!
