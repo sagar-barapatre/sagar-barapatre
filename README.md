@@ -7,10 +7,6 @@
     <img align="center" alt="Sagar Barapatre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   
-  <a href="mailto:sagarbarapatre.me@gmail.com">
-    <img align="center" alt="Sagar Barapatre | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
   <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
     <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
   </a>
@@ -21,6 +17,10 @@
   
   <a href="https://instagram.com/gobi.masala_">
     <img align="center" alt="Sagar Barapatre | Instagram" width="35px" src="./iconfinder_Instagram_1298747.png" />
+  </a>
+  
+  <a href="https://open.spotify.com/playlist/15QxQP29OnyZ9r2xKggtKT?si=7dPGXdGARLu62Be3fo9IZA">
+    <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
   </a>
 </p>
 
