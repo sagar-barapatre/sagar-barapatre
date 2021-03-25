@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://dev.to/sagarbarapatre">
-    <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="" />
+    <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
   </a>
 </p>
 
