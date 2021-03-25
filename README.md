@@ -18,6 +18,10 @@
   <a href="https://dev.to/sagarbarapatre">
     <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
   </a>
+  
+  <a href="https://instagram.com/gobi.masala_">
+    <img align="center" alt="Sagar Barapatre | Instagram" width="45px" src="./iconfinder_Instagram_1298747.png" />
+  </a>
 </p>
 
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
