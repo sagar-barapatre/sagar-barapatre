@@ -20,7 +20,7 @@
   </a>
   
   <a href="https://instagram.com/gobi.masala_">
-    <img align="center" alt="Sagar Barapatre | Instagram" width="45px" src="./iconfinder_Instagram_1298747.png" />
+    <img align="center" alt="Sagar Barapatre | Instagram" width="35px" src="./iconfinder_Instagram_1298747.png" />
   </a>
 </p>
 
@@ -47,7 +47,6 @@
 </a>
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sagar-barapatre&theme=onedark)](https://github.com/sagar-barapatre/github-readme-streak-stats)
-
 
 ### 📦 Languages and Tools: 
 
