@@ -14,10 +14,7 @@
   <a href="https://dev.to/sagarbarapatre">
     <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
   </a>
-  
-  <a href="https://instagram.com/gobi.masala_">
-    <img align="center" alt="Sagar Barapatre | Instagram" width="35px" src="./iconfinder_Instagram_1298747.png" />
-  </a>
+
   
   <a href="https://open.spotify.com/playlist/15QxQP29OnyZ9r2xKggtKT?si=7dPGXdGARLu62Be3fo9IZA">
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
