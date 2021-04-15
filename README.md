@@ -20,8 +20,8 @@
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
   </a>
   
-  <a href="https://dev.to/sagarbarapatre">
-    <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./devpost-logo.png" />
+  <a href="https://devpost.com/sagar-barapatre">
+    <img align="center" alt="Sagar Barapatre | Devpost" width="45px" src="./devpost-logo.png" />
   </a>
   
 </p>
