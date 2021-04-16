@@ -20,10 +20,6 @@
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
   </a>
   
-  <a href="https://devpost.com/sagar-barapatre">
-    <img align="center" alt="Sagar Barapatre | Devpost" width="45px" src="./devpost-logo.png" />
-  </a>
-  
 </p>
 
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
