@@ -14,10 +14,6 @@
   <a href="https://dev.to/sagarbarapatre">
     <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
   </a>
-
-     <a href="https://dev.to/sagarbarapatre">
-    <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_5296514_bird_tweet_twitter_twitter logo_icon_512px.png" />
-  </a>
   
   <a href="https://open.spotify.com/playlist/15QxQP29OnyZ9r2xKggtKT?si=7dPGXdGARLu62Be3fo9IZA">
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
