@@ -14,13 +14,20 @@
   <a href="https://dev.to/sagarbarapatre">
     <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
   </a>
+    
+   
+   
   
   <a href="https://open.spotify.com/playlist/15QxQP29OnyZ9r2xKggtKT?si=7dPGXdGARLu62Be3fo9IZA">
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
   </a>
+<a href="https://www.twitter.com/gobi_masala">
+    <img align="center" alt="Sagar Barapatre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+    </p>
   
-</p>
-
+ 
+  
 #### I am Sagar Barapatre. I am from Nagpur, India and currently pursuing my B.Tech in CSE from International Institute of Information Technology, Bhubaneswar. I love to explore and learn about new things.
 
 
@@ -68,3 +75,6 @@
 
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://www.guthub.com/sagar-barapatre)! :v: 
+
+
+ 
