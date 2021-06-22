@@ -74,7 +74,7 @@
 
 
 ### :hugs: Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://www.github.com/sagar-barapatre)! :v: 
+Thank you so much for visiting my tiny space on [GitHub](https://www.google.com)! :v: 
 
 
  
