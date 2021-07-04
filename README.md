@@ -42,15 +42,10 @@
 - 😄 Pronouns: He/ Him/ Bro
 - ⚡ Fun fact about me - I need atleast 4-5 cups of chai(tea) a day !!
  
-<a href="https://github.com/sagar-barapatre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-barapatre&theme=onedark&hide_langs_below=1" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-barapatre&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-barapatre&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-barapatre&theme=monokai)
 
-<a href="https://github.com/sagar-barapatre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-barapatre&theme=onedark&show_icons=true" />
-</a>
-
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sagar-barapatre&theme=onedark)](https://github.com/sagar-barapatre/github-readme-streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-barapatre&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar-barapatre&theme=monokai)
 
 ### 📦 Languages and Tools: 
 
@@ -75,6 +70,10 @@
 
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://www.github.com/sagar-barapatre)! :v: 
+
+
+
+
 
 
  
