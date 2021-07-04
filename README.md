@@ -18,7 +18,7 @@
    
    
   
-  <a href="https://open.spotify.com/playlist/15QxQP29OnyZ9r2xKggtKT?si=7dPGXdGARLu62Be3fo9IZA">
+  <a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
     <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
   </a>
 <a href="https://www.twitter.com/gobi_masala">
