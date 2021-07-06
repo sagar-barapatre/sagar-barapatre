@@ -4,19 +4,19 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sagarbarapatre02/">
-  <img align="left" alt="Sagar Barapatre | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sagar Barapatre | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/gobi_masala">
-  <img align="left" alt="Sagar Barapatre | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sagar Barapatre | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
-  <img align="left" alt="Sagar Barapatre" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
-  <img align="left" alt="Sagar Barapatre" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+  <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 <a href="https://dev.to/sagarbarapatre">
-  <img align="left" alt="Sagar Barapatre" width="30px" src="https://svgshare.com/i/YrN.svg" />
+  <img align="left" alt="Sagar Barapatre" width="25px" src="https://svgshare.com/i/YrN.svg" />
 </a>
     </p>
     
