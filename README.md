@@ -3,30 +3,26 @@
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sagarbarapatre02/">
-    <img align="center" alt="Sagar Barapatre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
-    <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
-  </a>
-  
-  <a href="https://dev.to/sagarbarapatre">
-    <img align="center" alt="Sagar Barapatre | Dev.to" width="45px" src="./iconfinder_84_Dev_4519024.png" />
-  </a>
-    
-   
-   
-  
-  <a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
-    <img align="center" alt="Sagar Barapatre | Spotify" width="35px" src="./iconfinder_Spotify_1298766.png" />
-  </a>
-<a href="https://www.twitter.com/gobi_masala">
-    <img align="center" alt="Sagar Barapatre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+    <a href="https://www.linkedin.com/in/sagarbarapatre02/">
+  <img align="left" alt="Sagar Barapatre | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/gobi_masala">
+  <img align="left" alt="Sagar Barapatre | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
+  <img align="left" alt="Sagar Barapatre" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
+  <img align="left" alt="Sagar Barapatre" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
+<a href="https://dev.to/sagarbarapatre">
+  <img align="left" alt="Sagar Barapatre" width="30px" src="https://svgshare.com/i/YrN.svg" />
+</a>
     </p>
-  
-<!--  <br> -->
+    
+ <br>
+<!--   <br> -->
+ 
 ## I'm Sagar. 
   
 An aspring Software Engineer and open-source lover. I am currently working as a **Full Stack Developer** at **[Hoick](https://hoick.co.in)**. I have experience working on various tech stacks in various domains like **E-Commerce, Entertainment, Health-Care**.
