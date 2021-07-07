@@ -53,7 +53,7 @@ An aspring Software Engineer and open-source lover. I am currently working as a 
 - Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
 
 
-#### Please feel free to reach out on **[Twitter](https://twitter.com/gobi_masala)** or **sagarbarapatre.me@gmail.com**. Thank you so much for reading. 💛
+#### Please feel free to reach me out on **[Twitter](https://twitter.com/gobi_masala)** or **sagarbarapatre.me@gmail.com**. Thank you so much for reading. 💛
 
 
 
