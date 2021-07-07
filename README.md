@@ -25,7 +25,10 @@
  
 ## I'm Sagar. 
   
-An aspring Software Engineer and open-source lover. I am currently working as a **Full Stack Developer** at **[Hoick](https://hoick.co.in)**. I have experience working on various tech stacks in various domains like **E-Commerce, Entertainment, Health-Care**.
+An aspring Software Engineer and open-source lover. I am currently working as a **Full Stack Developer** at **[Hoick](https://hoick.co.in)**.
+I have experience working on various tech stacks in various domains like **E-Commerce, Entertainment, Health-Care**.
+
+I am a 19 year old amateur fellow who has passable skills in comedy and impressive skills in finishing jars of nutella.
 
 
 ### 📦 Languages and Tools: 
