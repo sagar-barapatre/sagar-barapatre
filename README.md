@@ -56,7 +56,7 @@ I am a 20 year old amateur fellow who has passable skills in comedy and impressi
 - Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
 
 
-#### Please feel free to reach me out on **[Twitter](https://twitter.com)** or **sagarbarapatre.me@gmail.com**. Thank you so much for reading. 💛
+#### Please feel free to reach me out on **[Twitter](https://twitter.com/gobi_masala)** or **sagarbarapatre.me@gmail.com**. Thank you so much for reading. 💛
 
 
 
