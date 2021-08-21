@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/sagarbarapatre02/">
   <img align="left" alt="Sagar Barapatre | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/gobi_masala">
+<a href="https://twitter.com/sagar_sb_">
   <img align="left" alt="Sagar Barapatre | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
