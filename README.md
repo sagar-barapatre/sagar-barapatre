@@ -43,7 +43,7 @@ I am a 20 year old amateur fellow who has passable skills in comedy and impressi
 
 - :bird: - I tweet about Tech as well as for some fun on **[Twitter](https://twitter.com/gobi_masala)**.
 
-- :computer: - Have a look at my [Portfolio](https://sagarbarapatre.netlify.app) for more details.
+- :computer: - Have a look at my [Portfolio](https://sagarbarapatre.vercel.app) for more details.
 
 
 ### Some of my projects, Do ⭐️ them if you like it.
