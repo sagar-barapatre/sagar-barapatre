@@ -15,8 +15,11 @@
 <a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
   <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
-<a href="https://dev.to/sagarbarapatre">
-  <img align="left" alt="Sagar Barapatre" width="25px" src="./devto.svg" />
+<a href="https://www.instagram.com/sagar._.sb">
+  <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discordapp.com/users/754598415647768576">
+  <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
     </p>
     
