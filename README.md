@@ -43,9 +43,9 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 
 - 📚- I'm currently learning more about **System Designs, Bundlers, Frontend performance and algorithms**.
 
-- :writing_hand: - I often write **[blogs](https://dev.to/sagarbarapatre)** to share my learnings with the community.
+- :writing_hand: - I often write **[blogs](https://dev.to/diethrone)** to share my learnings with the community.
 
-- :bird: - I tweet about Tech as well as for some fun on **[Twitter](https://twitter.com/gobi_masala)**.
+- :bird: - I tweet about Tech as well as for some fun on **[Twitter](https://twitter.com/sagar_sb_)**.
 
 - :computer: - Have a look at my [Portfolio](https://sagarbarapatre.vercel.app) for more details.
 
@@ -54,17 +54,10 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 
 - MERN_Blogging - [Live Demo](https://mern-crud-assignment.herokuapp.com/)
 - Google Search Clone - [Live Demo](https://search-engine-cb6e7.web.app/)
-- SplitWise - [Link](https://github.com/sagar-barapatre/Splitwise)
+- InstaClone - [Live Demo](https://mern-instagram-assignment.herokuapp.com/)
 - COVID-19 Tracker - [Live Demo](https://covid-19tracker-react.netlify.app/)
 - Authentication Secrets - [Link](https://github.com/sagar-barapatre/Authentication-Secrets)
 - Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
 
 
-#### Please feel free to reach me out on **[Twitter](https://twitter.com/sagar_sb_)** or **sagarbarapatre.me@gmail.com**. Thank you so much for reading. 💛
-
-
-
-
-
-
- 
+#### Please feel free to reach me out on **[Twitter](https://twitter.com/sagar_sb_)** or **[sagarbarapatre.me@gmail.com](mailto:sagarbarapatre.me@gmail.com)**. Thank you so much for reading. 💛
