@@ -36,7 +36,7 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 
 - 📚- I'm currently learning more about **System Designs, Bundlers, Frontend performance and algorithms**.
 
-- :writing_hand: - I often write **[blogs](https://dev.to/diethrone)** to share my learnings with the community.
+- :writing_hand: - I often write **[blogs](https://sagarbarapatre.medium.com)** to share my learnings with the community.
 
 - :bird: - I tweet about Tech as well as for some fun on **[Twitter](https://twitter.com/sagar_sb_)**.
 
