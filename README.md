@@ -12,6 +12,13 @@
 <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
   <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
+    
+    
+<p align="center">
+    <a href="https://sagarbarapatre.medium.com">
+  <img align="left" alt="Sagar Barapatre | Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+    
 <a href="https://open.spotify.com/user/31i5mosmil3pn56b3bdhgj547z6y?si=99ebab7ce14147ed">
   <img align="left" alt="Sagar Barapatre" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
