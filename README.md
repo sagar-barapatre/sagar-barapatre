@@ -60,7 +60,7 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 - Authentication Secrets - [Link](https://github.com/sagar-barapatre/Authentication-Secrets)
 - Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Ways How Smallcases are Better than Equity Mutual Funds](https://sagarbarapatre.medium.com/5-ways-how-smallcases-are-better-than-equity-mutual-funds-ec6a523643ad?source=rss-f8cadd77f448------2)
 - [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://sagarbarapatre.medium.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
