@@ -1,13 +1,3 @@
-# 📩 Latest Blog Posts // You can name it whatever you want.
-<!-- BLOG-POST-LIST:START -->
-- [5 Ways How Smallcases are Better than Equity Mutual Funds](https://sagarbarapatre.medium.com/5-ways-how-smallcases-are-better-than-equity-mutual-funds-ec6a523643ad?source=rss-f8cadd77f448------2)
-- [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://sagarbarapatre.medium.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
-- [Best Practices for Writing React Components](https://sagarbarapatre.medium.com/best-practices-for-writing-react-components-555a34ae5c9e?source=rss-f8cadd77f448------2)
-- [Securing Node.js RESTful APIs with JSON Web Tokens](https://sagarbarapatre.medium.com/securing-node-js-restful-apis-with-json-web-tokens-77a30d3a838c?source=rss-f8cadd77f448------2)
-- [Deploy serverless MERN App to AWS with SLS and Github actions](https://sagarbarapatre.medium.com/deploy-serverless-mern-app-to-aws-with-sls-and-github-actions-d4c0b836d30?source=rss-f8cadd77f448------2)
-<!-- BLOG-POST-LIST:END -->
-
-
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
@@ -69,6 +59,16 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 - COVID-19 Tracker - [Live Demo](https://covid-19tracker-react.netlify.app/)
 - Authentication Secrets - [Link](https://github.com/sagar-barapatre/Authentication-Secrets)
 - Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
+
+# 📩 Latest Blog Posts // You can name it whatever you want.
+<!-- BLOG-POST-LIST:START -->
+- [5 Ways How Smallcases are Better than Equity Mutual Funds](https://sagarbarapatre.medium.com/5-ways-how-smallcases-are-better-than-equity-mutual-funds-ec6a523643ad?source=rss-f8cadd77f448------2)
+- [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://sagarbarapatre.medium.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
+- [Best Practices for Writing React Components](https://sagarbarapatre.medium.com/best-practices-for-writing-react-components-555a34ae5c9e?source=rss-f8cadd77f448------2)
+- [Securing Node.js RESTful APIs with JSON Web Tokens](https://sagarbarapatre.medium.com/securing-node-js-restful-apis-with-json-web-tokens-77a30d3a838c?source=rss-f8cadd77f448------2)
+- [Deploy serverless MERN App to AWS with SLS and Github actions](https://sagarbarapatre.medium.com/deploy-serverless-mern-app-to-aws-with-sls-and-github-actions-d4c0b836d30?source=rss-f8cadd77f448------2)
+<!-- BLOG-POST-LIST:END -->
+
 
 
 #### Please feel free to reach me out on **[Twitter](https://twitter.com/sagar_sb_)** or **[sagarbarapatre.me@gmail.com](mailto:sagarbarapatre.me@gmail.com)**. Thank you so much for reading. 💛
