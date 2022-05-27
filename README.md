@@ -35,6 +35,8 @@ I have experience working on various tech stacks in various domains like **E-Com
 I am a fun-loving, goal-oriented, optimistic personality. I believe success lies on the line joining technical skills & non-technical skills too. Being said that, I am myself a blend of the two things. Ideas + innovation + technology + leadership + commitment are my tag words for life. An avid reader & definitely not a quitter.
 
 
+[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+
 ### 📦 Languages and Tools: 
 
 
