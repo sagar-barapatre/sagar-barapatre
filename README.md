@@ -53,14 +53,6 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 - :computer: - Have a look at my [Portfolio](https://sagarbarapatre.vercel.app) for more details.
 
 
-### Some of my projects, Do ⭐️ them if you like it.
-
-- MERN_Blogging - [Live Demo](https://mern-crud-assignment.herokuapp.com/)
-- Google Search Clone - [Live Demo](https://search-engine-cb6e7.web.app/)
-- InstaClone - [Live Demo](https://mern-instagram-assignment.herokuapp.com/)
-- COVID-19 Tracker - [Live Demo](https://covid-19tracker-react.netlify.app/)
-- Authentication Secrets - [Link](https://github.com/sagar-barapatre/Authentication-Secrets)
-- Github Users Finder - [Live Demo](https://sagar-barapatre.github.io/Github-Users-Finder/)
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
