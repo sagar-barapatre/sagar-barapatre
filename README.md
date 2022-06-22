@@ -56,9 +56,9 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an Ethereum + InterPlanetary File System &lpar;IPFS&rpar;+ React.js DApp.](https://sagarbarapatre.medium.com/build-an-ethereum-interplanetary-file-system-ipfs-react-js-dapp-7bb52b7bf1ee?source=rss-f8cadd77f448------2)
+- [Build an Ethereum + InterPlanetary File System &lpar;IPFS&rpar;+ React.js DApp.](https://coinsbench.com/build-an-ethereum-interplanetary-file-system-ipfs-react-js-dapp-7bb52b7bf1ee?source=rss-f8cadd77f448------2)
 - [5 Ways How Smallcases are Better than Equity Mutual Funds](https://sagarbarapatre.medium.com/5-ways-how-smallcases-are-better-than-equity-mutual-funds-ec6a523643ad?source=rss-f8cadd77f448------2)
-- [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://sagarbarapatre.medium.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
+- [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://coinsbench.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
 - [Best Practices for Writing React Components](https://sagarbarapatre.medium.com/best-practices-for-writing-react-components-555a34ae5c9e?source=rss-f8cadd77f448------2)
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://sagarbarapatre.medium.com/securing-node-js-restful-apis-with-json-web-tokens-77a30d3a838c?source=rss-f8cadd77f448------2)
 <!-- BLOG-POST-LIST:END -->
