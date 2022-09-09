@@ -62,7 +62,6 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 - [Ethereum JavaScript Libraries for Dapp Development: web3.js vs. ethers.js](https://coinsbench.com/ethereum-javascript-libraries-for-dapp-development-web3-js-vs-ethers-js-fd7201abcee?source=rss-f8cadd77f448------2)
 - [Best Practices for Writing React Components](https://sagarbarapatre.medium.com/best-practices-for-writing-react-components-555a34ae5c9e?source=rss-f8cadd77f448------2)
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://sagarbarapatre.medium.com/securing-node-js-restful-apis-with-json-web-tokens-77a30d3a838c?source=rss-f8cadd77f448------2)
-- [Deploy serverless MERN App to AWS with SLS and Github actions](https://sagarbarapatre.medium.com/deploy-serverless-mern-app-to-aws-with-sls-and-github-actions-d4c0b836d30?source=rss-f8cadd77f448------2)
 <!-- BLOG-POST-LIST:END -->
 
 
