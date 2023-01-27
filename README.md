@@ -31,7 +31,7 @@
  
 ## I'm Sagar. 
   
-An aspring Software Engineer and open-source lover. In the past, I worked as a **Full Stack Developer** at **[Hoick](https://hoick.co.in)**.
+I am Software Engineer at Siemens Healthineers and open-source lover. In the past, I worked as a **Full Stack Developer** at **[Hoick](https://hoick.co.in)**.
 I have experience working on various tech stacks in various domains like **E-Commerce, Entertainment, Health-Care**.
 
 I am a fun-loving, goal-oriented, optimistic personality. I believe success lies on the line joining technical skills & non-technical skills too. Being said that, I am myself a blend of the two things. Ideas + innovation + technology + leadership + commitment are my tag words for life. An avid reader & definitely not a quitter.
